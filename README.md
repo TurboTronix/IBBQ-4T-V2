@@ -17,9 +17,6 @@ Next step is to incorporate Alexa/Mobile notifications
 ### View when IBBQ is OFF:
 ![alt text](https://github.com/TurboTronix/IBBQ-4T-V2/blob/Sample-Images/Screenshot%202024-01-05%20101857.png?raw=true)
 
-### View when IBBQ is OFF:
-![alt text](https://github.com/TurboTronix/IBBQ-4T-V2/blob/Sample-Images/Screenshot%202024-01-05%20101857.png?raw=true)
-
 ### View when timer is activated:
 ![alt text](https://github.com/TurboTronix/IBBQ-4T-V2/blob/Sample-Images/Screenshot%202024-01-05%20101958.png?raw=true)
 
