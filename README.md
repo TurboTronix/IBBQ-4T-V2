@@ -10,4 +10,4 @@ Next step is to incorporate Alexa/Mobile notifications
 Sample images:
 
 View when IBBQ is ON:
-![Screenshot](Sample-Images/Screenshot%202024-01-05%20101940.png)
+![Screenshot](Sample-Images/Screenshot%202024-01-05%20101940.png](https://github.com/TurboTronix/IBBQ-4T-V2/blob/Sample-Images/Screenshot%202024-01-05%20101940.png)https://github.com/TurboTronix/IBBQ-4T-V2/blob/Sample-Images/Screenshot%202024-01-05%20101940.png)
