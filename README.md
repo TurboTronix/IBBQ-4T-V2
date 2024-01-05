@@ -10,4 +10,4 @@ Next step is to incorporate Alexa/Mobile notifications
 Sample images:
 
 View when IBBQ is ON:
-![alt text](https://github.com/[username]/[reponame]/blob/Sample-Images/Screenshot%202024-01-05%20101857.png?raw=true)
+![Screenshot](Sample-Images/Screenshot%202024-01-05%20101940.png)
