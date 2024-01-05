@@ -6,3 +6,8 @@ HomeAssistant Lovelace UI for IBBQ-4T V2
 3. The ibbq_lovelace.yaml file into your lovelace folder
 
 Next step is to incorporate Alexa/Mobile notifications
+
+Sample images:
+
+View when IBBQ is ON:
+![alt text](https://github.com/[username]/[reponame]/blob/Sample-Images/Screenshot%202024-01-05%20101857.png?raw=true)
